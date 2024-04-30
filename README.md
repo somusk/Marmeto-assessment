@@ -4,10 +4,10 @@
 This project is a responsive web application designed for showcasing products. It features a dynamic tab navigation system, allowing users to easily switch between different categories. The product display is organized in a grid layout for optimal user experience.
 
 # Technologies Used:
-HTML: The structure of the web pages.
-CSS: Styling and layout for an attractive and responsive design.
-JavaScript: Dynamic content generation and interactivity.
-Google Fonts: Used google font for a clean and modern look.
+1.HTML: The structure of the web pages.
+2.CSS: Styling and layout for an attractive and responsive design.
+3.JavaScript: Dynamic content generation and interactivity.
+4.Google Fonts: Used google font for a clean and modern look.
 
 # Features:
 Dynamic Tabs: Users can navigate between product categories seamlessly.
