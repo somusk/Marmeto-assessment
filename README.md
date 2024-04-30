@@ -1,7 +1,7 @@
 # Marmeto-assessment
 # Project Name: Product Lists
 # Description:
-This project is a responsive web application designed for showcasing products. It features a dynamic tab navigation system, allowing users to easily switch between different categories. The product display is organized in a grid layout for optimal user experience.
+This project involves showcasing products through a responsive web application. The site features a dynamic tab navigation system that makes it easy for users to switch between categories.
 
 # Technologies Used:
 1.HTML: The structure of the web pages.
